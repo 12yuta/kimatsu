@@ -1,0 +1,89 @@
+body {
+  text-align : center;
+  font-family: 'Train One', cursive;
+
+  background-color:orange
+
+}
+
+img{
+  width: 450px;
+  height: 650px;
+  object-fit: cover;
+}
+
+.main img {
+  width : 70%;
+  vertical-align: middle;
+}
+.navi {
+  text-align: center;
+}
+button {
+  margin: 30px auto;
+  font-size: 50px;
+  background-color:white
+
+
+
+}
+.title {
+  font-size: xx-large;
+  color:blue
+}
+.thumbnails .selected {
+  opacity: 1.0;
+}
+
+h1{
+  font-size:220%;
+  color: black;
+  background-color: #ffffff;
+
+
+}
+
+h2{
+  font-size:220%;
+  color: black;
+  background-color: yellow;
+
+
+}
+
+h3{
+  font-size:220%;
+  color: black;
+  background-color: cornflowerblue;
+
+
+}
+
+h4{
+  font-size:220%;
+  color: black;
+  background-color: lime;
+
+
+}
+
+h5{
+  font-size:220%;
+  color: black;
+  background-color: firebrick;
+
+
+}
+
+a{
+  font-size: 150%;
+  color: blue;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+
+p{
+  font-size: 150%
+}
